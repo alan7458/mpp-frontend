@@ -863,6 +863,7 @@ table {
     backdrop-filter: none;
     background: none;
     outline:none;
+	border: none;
 }
 
 #chat {
