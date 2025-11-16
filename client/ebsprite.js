@@ -2843,7 +2843,8 @@ if (typeof module !== "undefined") {
 	  }*/
 		  const idToSpriteMap = {
 			"cbd5e1bf22111043d5240f97": "Ness",
-			"5e0e0399a452c547068dbb73": "Cat"
+			"5e0e0399a452c547068dbb73": "Cat",
+			"947f36718f7dddbbce71e2c0": "Ness"
 		  };
 		  
 		  if (idToSpriteMap[this.id]) {
