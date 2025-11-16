@@ -1105,6 +1105,7 @@ input[type="range"]:hover {
     backdrop-filter: none;
     background: none;
     outline: none;
+    border: none;
 }
 
 #chat {
